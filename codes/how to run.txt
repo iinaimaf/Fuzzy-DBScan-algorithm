@@ -1,0 +1,3 @@
+step 1: dataset should be in same folder as program
+step 2: take the optimal tested values for Epsilon_min,Epsilon_max, MinPoints, MaxPoints from text file named "Corresponding values of dataset".
+step 3: run the new_algo file for our proposed algo and run Fuzzy_DBscan_4.3 for the algorithm we compared with and so on.
