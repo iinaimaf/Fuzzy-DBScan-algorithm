@@ -1,2 +1,2 @@
 # Fuzzy-DBScan-algorithm
-We have fuzzified the classical DBScan algorithm, by three different methods.
+We have fuzzified the classical DBScan algorithm, by three different methods by taking help from the research paper attached. Then we proposed a new fuzzy DBScan algorithm which presented us better results compared to classical DBScan, Fuzzy C mean and the 3 fuzzied algorithms in the research paper. We have shown the comparison using graphs. Report of this project is attached.
